@@ -1,0 +1,13 @@
+.statistics {
+  width: 350px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.stat_list {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  padding: 0;
+  justify-content: space-evenly;
+}
